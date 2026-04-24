@@ -5,7 +5,7 @@ A simple multi-page café website built using pure HTML. This project represents
 ---
 
 ## Live Preview
-https://htmlpreview.github.io/?https://github.com/yo-meharry/html_first_project_without_css/blob/main/index.html
+https://yo-meharry.github.io/html_first_project_without_css/index.html
 ---
 
 ## Features
